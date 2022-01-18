@@ -1,0 +1,17 @@
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\bin\Debug\MyWPF.NotePad.exe.config
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\bin\Debug\MyWPF.NotePad.exe
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\bin\Debug\MyWPF.NotePad.pdb
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.csproj.AssemblyReference.cache
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\View\MainView.g.cs
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\App.g.cs
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad_MarkupCompile.cache
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad_MarkupCompile.lref
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\View\MainView.baml
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.g.resources
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.Properties.Resources.resources
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.csproj.GenerateResource.cache
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.csproj.CoreCompileInputs.cache
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.exe
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\MyWPF.NotePad.pdb
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\View\LoginView.g.cs
+D:\学习资料\C#\WPF\MyWPF.NotePad\MyWPF.NotePad\obj\Debug\View\LoginView.baml
